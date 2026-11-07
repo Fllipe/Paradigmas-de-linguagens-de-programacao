@@ -1,1 +1,1 @@
- print("isto é um exemplo")
+print("isto e um exemplo")
